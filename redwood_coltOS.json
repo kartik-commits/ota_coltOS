@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "Kartik Lashkare (kattya9512)",
+			"oem": "Poco",
+			"device": "POCO X5 Pro",
+			"filename": "ColtOS-v13.3-minimal-Unofficial-redwood-20230827-1627-VANILLA.zip",
+			"download": "",
+			"timestamp": ,
+			"sha256": "",
+			"size": 12366279224,
+			"version": "1.0.0",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Kartik_Ane_Nenu",
+			"dt": "https://github.com/kartik-commits/android_device_xiaomi_redwood",
+			"common-dt": "https://github.com/kartik-commits/android_device_xiaomi_sm7325-common",
+			"kernel": "https://github.com/kartik-commits/kernel_xiaomi_sm7325"
+		}
+	]
+}
